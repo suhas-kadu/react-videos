@@ -14,7 +14,7 @@ class App extends React.Component {
   };
 
   componentDidMount() {
-    this.onTermSubmit("Dua lipa");
+    this.onTermSubmit("Dua lipa levitating");
   }
 
   onTermSubmit = async (term) => {
